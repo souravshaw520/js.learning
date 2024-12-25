@@ -4,3 +4,4 @@ var accountPassword = "121212"
 accountCity = "Jaipur"
 
 console.table([accountId, accountEmail, accountPassword, accountCity]);
+
